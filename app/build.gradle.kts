@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "ca.gbc.comp3074.MuhammadAminlab11"
+    namespace = "ca.gbc.comp3074.Farhan_Ali_MuhammadAmin"
     compileSdk {
         version = release(37)
     }

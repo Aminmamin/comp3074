@@ -1,4 +1,4 @@
-package ca.gbc.comp3074.MuhammadAminlab11;
+package ca.gbc.comp3074.Farhan_Ali_MuhammadAmin;
 
 import org.junit.Test;
 

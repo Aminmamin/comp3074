@@ -1,9 +1,10 @@
-package ca.gbc.comp3074.MuhammadAminlab11
+package ca.gbc.comp3074.Farhan_Ali_MuhammadAmin.Lab1
 
 import android.os.Bundle
 import android.widget.Button
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
+import ca.gbc.comp3074.Farhan_Ali_MuhammadAmin.R
 
 class MainActivity : AppCompatActivity() {
 
